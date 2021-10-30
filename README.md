@@ -9,12 +9,12 @@
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 🇧🇩 <i>Resident of iran</i></li>
 <li> 😇 <i>Muslim</i></li>
-<li> 😐 <i>Studying at Kindergarten</i></li>
+<li> 😐 <i>Studying at sureshjan</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
+<li> 🐍 <i>Trying to learn Python & SQLI & Bash</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
