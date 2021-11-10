@@ -1,11 +1,11 @@
 <!-- Github README -->
-<p align="center"><a href="https://github.com/KING-HANTER">
+<p align="center"><a href="https://github.com/FLASH-HANTER">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/KING-HANTER"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's king hanter 👋</i></b></h2>
+<h2><b><i>Howdy , it's FLASH-HANTER 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
@@ -24,7 +24,7 @@
 <a href="https://github.com/KING-HANTER"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/KING-HANTER"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=KING-HANTER"></a>
+<a href="https://github.com/FLASH-HANTER"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=KING-HANTER"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/KING-HANTER"><img align="left" title="Github" alt="Github" width="30px" src="/github.png" /></a>
